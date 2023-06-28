@@ -1,16 +1,7 @@
-# chat_app
+# Chat-App
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a simple application built as a hobby. It can allow users to create accounts, add friends and chat with them in realtime. The UI was built using Flutter and firebase firestore functions as the backend.
